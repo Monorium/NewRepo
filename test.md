@@ -1,4 +1,4 @@
-```uml
+```plantuml
 @startuml
 title ユースケース図 - Communication Board
 skinparam ComponentStyle uml2
