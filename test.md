@@ -1,3 +1,4 @@
+```uml
 @startuml
 title ユースケース図 - Communication Board
 skinparam ComponentStyle uml2
@@ -43,3 +44,4 @@ ucChangeBasicPosition -- MainBoard
 ucChangeServoAngle_local -- Servo_11
 
 @enduml
+```
