@@ -1,6 +1,6 @@
 ```plantuml
 @startuml
-title ユースケース図 - Communication Board
+title test ユースケース図 - Communication Board
 skinparam ComponentStyle uml2
 left to right direction
 

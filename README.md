@@ -1,1 +1,2 @@
 # NewRepo
+Termux & editor
